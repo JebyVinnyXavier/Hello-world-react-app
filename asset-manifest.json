@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hello-world-react-app/static/css/main.a3d45c80.chunk.css",
+    "main.js": "/Hello-world-react-app/static/js/main.ef5350d2.chunk.js",
+    "main.js.map": "/Hello-world-react-app/static/js/main.ef5350d2.chunk.js.map",
+    "runtime-main.js": "/Hello-world-react-app/static/js/runtime-main.c5658e43.js",
+    "runtime-main.js.map": "/Hello-world-react-app/static/js/runtime-main.c5658e43.js.map",
+    "static/js/2.b20e2bf5.chunk.js": "/Hello-world-react-app/static/js/2.b20e2bf5.chunk.js",
+    "static/js/2.b20e2bf5.chunk.js.map": "/Hello-world-react-app/static/js/2.b20e2bf5.chunk.js.map",
+    "static/js/3.f97d5ff1.chunk.js": "/Hello-world-react-app/static/js/3.f97d5ff1.chunk.js",
+    "static/js/3.f97d5ff1.chunk.js.map": "/Hello-world-react-app/static/js/3.f97d5ff1.chunk.js.map",
+    "index.html": "/Hello-world-react-app/index.html",
+    "static/css/main.a3d45c80.chunk.css.map": "/Hello-world-react-app/static/css/main.a3d45c80.chunk.css.map",
+    "static/js/2.b20e2bf5.chunk.js.LICENSE.txt": "/Hello-world-react-app/static/js/2.b20e2bf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5658e43.js",
+    "static/js/2.b20e2bf5.chunk.js",
+    "static/css/main.a3d45c80.chunk.css",
+    "static/js/main.ef5350d2.chunk.js"
+  ]
+}
