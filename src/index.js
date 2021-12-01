@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+//in place of app put the export function
 ReactDOM.render(
   <React.StrictMode>
     <App />

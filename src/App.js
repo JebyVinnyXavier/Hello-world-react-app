@@ -1,24 +1,30 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
+import TodoContainerFunc from './component/TodoContainerFunc';
 
 function App() {
   return (
-    <div className="App">
+<div>
+
+    <h1>Hello World From React</h1>
+      <TodoContainerFunc/>
+</div>
+
+  /*<div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      <h1>Hello World From React</h1>
+      <TodoContainerFunc/>
+
+             
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+          rel="noopener noreferrer">
+        
         </a>
       </header>
-    </div>
+    </div>*/
   );
 }
 
